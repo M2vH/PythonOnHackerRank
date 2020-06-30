@@ -27,13 +27,13 @@ cond(even)->f
 if __name__ == '__main__':
     n = int(input().strip())
 
-    if n%2 != 0:                # is odd
+    if n%2 != 0:                    # is odd
         print("Weird")
-    else:                       # is even
-        if n >= 2 & n <= 5:         # range 1
+    else:                           # is even
+        if n >= 2 & n <= 5:             # range 1
             print("Not Weird")
-        elif n >= 6 & n <= 20:      # range 2
+        elif n >= 6 & n <= 20:          # range 2
             print("Weird")
-        elif n > 20:                # range 3
+        elif n > 20:                    # range 3
             print("Not Weird")
 ```
