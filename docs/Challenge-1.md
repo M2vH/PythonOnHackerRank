@@ -6,6 +6,7 @@ Take a number and then print a string depending on value.
 
 [View on HackerRank](https://www.hackerrank.com/challenges/py-if-else/problem?h_r=next-challenge&h_v=zen)
 
+<!--
 ## As Flow chart
 
 ```flow
@@ -18,6 +19,7 @@ s->cond
 cond(odd)->e
 cond(even)->f
 ```
+-->
 
 ## My Solution
 
